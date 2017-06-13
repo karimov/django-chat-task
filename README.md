@@ -15,27 +15,22 @@ TODO: Write a project description
 
 ## Usage
 
- 
+Client: http://localhost:8000/client
+API_ROOT: http://localhost:8000
 
-## Contributing
+1) Пользователь должен иметь возможность зарегистрироваться указав логин и пароль, далее авторизоваться по указанным данным.
+   POST http://127.0.0.1:8000/users/
+2) Комната чата только одна и едина для всех.
+3) Пользователь может отправить текстовое сообщение.
+   POST http://localhost:8000/messages/send
+4) Для получения новых сообщений необходимо реализовать поллинг.
+   POST http://localhost:8000/messages/poll
+5) Реализовать механизм загрузки истории сообщений.
+   POST http://localhost:8000/messages/?=date="YYY-mm-dd"
+   пример: 2017-07-11
+6) Api должен быть защищенным. Как минимум необходимо отвечать ошибкой на запросы от пользователей, которые не авторизовались
 
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
 
-## History
-
-TODO: Write history
-
-## Credits
-
-TODO: Write credits
-
-## License
-
-TODO: Write license
 ]]></content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
