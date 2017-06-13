@@ -10,13 +10,12 @@ TODO: Write a project description
 ## Installation
 
 $ pip install -r requirements.txt
-$ python3 manage.py makemigrations chat
 $ python3 manage.py migrate
-$ python3 
+$ python3 manage.py createsuperuser
 
 ## Usage
 
-$ 
+ 
 
 ## Contributing
 
