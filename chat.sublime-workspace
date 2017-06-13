@@ -1,0 +1,1173 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"poll",
+				"polling"
+			],
+			[
+				"HTT",
+				"HTTP_201_CREATED"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"message",
+				"messages"
+			],
+			[
+				"Is",
+				"IsAuthenticated"
+			],
+			[
+				"per",
+				"permission_classes"
+			],
+			[
+				"order",
+				"order_by"
+			],
+			[
+				"Mess",
+				"Message"
+			],
+			[
+				"HTTP",
+				"HTTP_404_NOT_FOUND"
+			],
+			[
+				"Messa",
+				"MessageSerializer"
+			],
+			[
+				"User",
+				"UserSerializer"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"va",
+				"validated_data"
+			],
+			[
+				"Users",
+				"UserSerializer"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"fro",
+				"rest_framework"
+			],
+			[
+				"pasw",
+				"password_2"
+			],
+			[
+				"pass",
+				"password_2"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"HTTP_",
+				"HTTP_204_NO_CONTENT"
+			],
+			[
+				"ge",
+				"get_object"
+			],
+			[
+				"p",
+				"pk"
+			],
+			[
+				"HTP",
+				"HTTP_400_BAD_REQUEST"
+			],
+			[
+				"JSONRe",
+				"JSONRenderer"
+			],
+			[
+				"Snipp",
+				"SnippetSerializer"
+			],
+			[
+				"csr",
+				"csrf_exempt"
+			],
+			[
+				"sinpp",
+				"snippet_list"
+			],
+			[
+				"cle",
+				"cleaned_data"
+			],
+			[
+				"clean",
+				"clean_data"
+			],
+			[
+				"auth",
+				"auth_mod_name"
+			],
+			[
+				"st",
+				"start_response"
+			],
+			[
+				"decode",
+				"decoded"
+			],
+			[
+				"No",
+				"NotFound"
+			],
+			[
+				"v",
+				"view"
+			],
+			[
+				"rou",
+				"Route"
+			],
+			[
+				"route",
+				"route_table"
+			],
+			[
+				"ro",
+				"routes"
+			],
+			[
+				"str",
+				"string_status"
+			],
+			[
+				"hea",
+				"headers"
+			],
+			[
+				"app",
+				"application"
+			],
+			[
+				"apach",
+				"__apache_packages"
+			],
+			[
+				"Ad",
+				"ADMINISTER"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"car",
+				"cart_item"
+			],
+			[
+				"tota",
+				"total_items"
+			],
+			[
+				"Car",
+				"CartItem"
+			],
+			[
+				"try",
+				"try	Try/Except/Else/Finally"
+			],
+			[
+				"item",
+				"item_added"
+			],
+			[
+				"sub",
+				"submit-btn"
+			],
+			[
+				"Cart",
+				"CartItem"
+			],
+			[
+				"update",
+				"update_subtotal"
+			],
+			[
+				"delete",
+				"delete_item"
+			],
+			[
+				"cart",
+				"cart_id"
+			],
+			[
+				"dele",
+				"delete_item"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"CartItem",
+				"CartItemAdmin"
+			],
+			[
+				"auto",
+				"auto_now"
+			],
+			[
+				"auto_",
+				"auto_now_add"
+			],
+			[
+				"ProductIma",
+				"ProductImage"
+			],
+			[
+				"Produ",
+				"ProductImage"
+			],
+			[
+				"Vari",
+				"VariationInline"
+			],
+			[
+				"Produc",
+				"Productadmin"
+			],
+			[
+				"feat",
+				"featured_img"
+			],
+			[
+				"ob",
+				"objects"
+			],
+			[
+				"Sms",
+				"SmsCodeSend"
+			],
+			[
+				"rand",
+				"random_list"
+			],
+			[
+				"to",
+				"to_num"
+			],
+			[
+				"fr",
+				"from_number"
+			],
+			[
+				"c",
+				"client"
+			],
+			[
+				"v1",
+				"v1_api"
+			],
+			[
+				"prod",
+				"products_two"
+			],
+			[
+				"pro",
+				"products_one"
+			],
+			[
+				"o",
+				"object"
+			],
+			[
+				"chec",
+				"check_title"
+			],
+			[
+				"send",
+				"send_title"
+			],
+			[
+				"send_t",
+				"send_type"
+			],
+			[
+				"from",
+				"from_number"
+			],
+			[
+				"S",
+				"SmsCodeSend"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"model",
+				"models"
+			],
+			[
+				"mo",
+				"models"
+			],
+			[
+				"sal",
+				"sale_price"
+			],
+			[
+				"data",
+				"data-sale-price"
+			],
+			[
+				"Va",
+				"VariationInventoryFormSet"
+			],
+			[
+				"modelform",
+				"modelformset_factory"
+			],
+			[
+				"htt",
+				"Http404"
+			],
+			[
+				"pr",
+				"product_pk"
+			],
+			[
+				"Varia",
+				"VariationListView"
+			],
+			[
+				"new",
+				"new_filename"
+			],
+			[
+				"fil",
+				"file_extention"
+			],
+			[
+				"ima",
+				"image_upload_to"
+			],
+			[
+				"pri",
+				"price"
+			],
+			[
+				"Prod",
+				"Product"
+			],
+			[
+				"P",
+				"ProductListView"
+			],
+			[
+				"http",
+				"http404"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"is_",
+				"is_authenticated"
+			],
+			[
+				"permiss",
+				"permissions"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"de",
+				"decorators"
+			],
+			[
+				"a",
+				"a_new_list"
+			],
+			[
+				"the",
+				"the_list"
+			],
+			[
+				"line",
+				"line_breaks"
+			],
+			[
+				"is",
+				"is_manager"
+			],
+			[
+				"redi",
+				"redis_url"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"r",
+				"request"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"f",
+				"featurette"
+			],
+			[
+				"Htt",
+				"HttpResponsePermanentRedirect	class"
+			],
+			[
+				"co",
+				"correct_answer"
+			],
+			[
+				"question",
+				"question_type"
+			],
+			[
+				"lo",
+				"login_required	function"
+			],
+			[
+				"Le",
+				"LectureQuestion	class"
+			],
+			[
+				"Que",
+				"QuestionAnswerInline"
+			],
+			[
+				"L",
+				"LectureQuestion	class"
+			],
+			[
+				"se",
+				"settings	instance"
+			],
+			[
+				"Lecture",
+				"LectureCompletion	class"
+			],
+			[
+				"prev",
+				"prev_item	statement"
+			],
+			[
+				"nex",
+				"next_item	statement"
+			],
+			[
+				"prv",
+				"prev_item	statement"
+			],
+			[
+				"fin",
+				"finished	statement"
+			],
+			[
+				"Lec",
+				"LectureCompletion	class"
+			],
+			[
+				"le",
+				"lecture_id	statement"
+			],
+			[
+				"ne",
+				"new_view	statement"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "task/settings.py",
+			"settings":
+			{
+				"buffer_size": 3761,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "chat/models.py",
+			"settings":
+			{
+				"buffer_size": 923,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "chat/views.py",
+			"settings":
+			{
+				"buffer_size": 3626,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "chat/templates/client.html",
+			"settings":
+			{
+				"buffer_size": 3665,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "chat/urls_chat.py",
+			"settings":
+			{
+				"buffer_size": 645,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "chat/serializers.py",
+			"settings":
+			{
+				"buffer_size": 1165,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/kido/pyWorkshop/django-chat/task",
+		"/home/kido/pyWorkshop/django-chat/task/chat",
+		"/home/kido/pyWorkshop/django-chat/task/chat/templates"
+	],
+	"file_history":
+	[
+		"/home/kido/pyWorkshop/django-chat/task/task/urls.py",
+		"/home/kido/pyWorkshop/django-chat/task/chat/admin.py",
+		"/home/kido/pyWorkshop/chat_api/tasks/snippet/permissions.py",
+		"/home/kido/pyWorkshop/chat_api/tasks/snippet/urls.py",
+		"/home/kido/pyWorkshop/chat_api/tasks/snippet/models.py",
+		"/home/kido/pyWorkshop/chat_api/tasks/tasks/settings.py",
+		"/home/kido/pyWorkshop/chat_api/tasks/tasks/urls.py",
+		"/home/kido/pyWorkshop/chat_api/tasks/snippet/serializers.py",
+		"/home/kido/pyWorkshop/chat_api/tasks/snippet/views.py",
+		"/home/kido/pyWorkshop/chat_api/tasks/chat/views.py",
+		"/home/kido/pyWorkshop/chat_api/tasks/forms.py",
+		"/home/kido/pyWorkshop/chat_api/tasks/chat/urls_chat.py",
+		"/home/kido/pyWorkshop/chat_api/tasks/chat/templates/register.html",
+		"/home/kido/pyWorkshop/chat_api/tasks/chat/templates/login.html",
+		"/home/kido/pyWorkshop/chat_api/tasks/chat/templates/logout.html",
+		"/home/kido/pyWorkshop/chat_api/tasks/chat/templates/hello.html",
+		"/home/kido/pyWorkshop/chat_api/tasks/chat/models.py",
+		"/home/kido/pyWorkshop/flasky/app/api_1_0/users.py",
+		"/home/kido/pyWorkshop/flasky/app/auth/views.py",
+		"/home/kido/pyWorkshop/flasky/app/api_1_0/authentication.py",
+		"/home/kido/pyWorkshop/flasky/app/models.py",
+		"/home/kido/pyWorkshop/chat_api/chat_api/newapp/models.py",
+		"/home/kido/pyWorkshop/chat_api/chat_api/chat_api/settings.py",
+		"/home/kido/pyWorkshop/flasky/manage.py",
+		"/home/kido/pyWorkshop/chat_api/chatapi/chatapi/settings.py",
+		"/home/kido/pyWorkshop/chat_api/chatapi/chatapi/urls.py",
+		"/home/kido/ecommerce-2/src/orders/views.py",
+		"/home/kido/pyWorkshop/web_framework/framework/simple_app.py",
+		"/home/kido/pyWorkshop/web_framework/framework/middleware.py",
+		"/home/kido/pyWorkshop/web_framework/framework/template.html",
+		"/home/kido/pyWorkshop/web_framework/framework/own_framework.py",
+		"/home/kido/pyWorkshop/web_framework/framework/wsgi_tools.py",
+		"/etc/ffserver.conf",
+		"/home/kido/Загрузки/EN-HCNetSDK(Windows64)V5.2.3.3_build20160623/incEn/HCNetSDK.h",
+		"/home/kido/pyWorkshop/web_framework/req_res_abstraction.py",
+		"/home/kido/VMs/VagrantBOx/simple_ftp/simple_vsftp.yml",
+		"/home/kido/VMs/VagrantBOx/simple_ftp/change_users_pass.yml",
+		"/home/kido/pyWorkshop/web_framework/web_frm.py",
+		"/home/kido/pyWorkshop/mkown_framework/parse_req_get.py",
+		"/home/kido/pyWorkshop/mkown_framework/parse_req_post.py",
+		"/home/kido/Загрузки/test (2).xml",
+		"/etc/ansible/roles/ftao.nginx-reverse-proxy/defaults/main.yml",
+		"/etc/ansible/roles/ftao.nginx-reverse-proxy/tasks/main.yml",
+		"/home/kido/VMs/ansible-vagrant-examples/elk/Vagrantfile",
+		"/home/kido/VMs/ansible-vagrant-examples/elk/roles/geerlingguy.java/tasks/setup-Debian.yml",
+		"/home/kido/VMs/ansible-vagrant-examples/elk/roles/geerlingguy.java/tasks/main.yml",
+		"/home/kido/VMs/ansible-vagrant-examples/elk/roles/geerlingguy.java/vars/Ubuntu-12.04.yml",
+		"/home/kido/VMs/ansible-vagrant-examples/elk/roles/geerlingguy.java/vars/Debian.yml",
+		"/home/kido/VMs/ansible-vagrant-examples/elk/roles/geerlingguy.java/defaults/main.yml",
+		"/home/kido/VMs/ansible-vagrant-examples/elk/provisioning/elk/inventory",
+		"/home/kido/VMs/elk/Vagrantfile",
+		"/home/kido/VMs/lamp-infrastructure/playbooks/db/vars.yml",
+		"/home/kido/VMs/lamp-infrastructure/playbooks/db/main.yml",
+		"/etc/ansible/roles/geerlingguy.mysql/tasks/replication.yml",
+		"/home/kido/VMs/VagrantBOx/vars.yml",
+		"/home/kido/VMs/VagrantBOx/playbook.yml",
+		"/home/kido/VMs/lamp-infrastructure/playbooks/www/templates/index.php.j2",
+		"/etc/ansible/roles/geerlingguy.mysql/tasks/users.yml",
+		"/etc/ansible/roles/geerlingguy.mysql/tasks/main.yml",
+		"/etc/ansible/roles/geerlingguy.mysql/meta/main.yml",
+		"/home/kido/VMs/lamp-infrastructure/configure.yml",
+		"/home/kido/VMs/lamp-infrastructure/Vagrantfile",
+		"/home/kido/VMs/lamp-infrastructure/inventories/vagrant/inventory",
+		"/home/kido/VMs/lamp-infrastructure/configure.",
+		"/home/kido/VMs/lamp-infrastructure/playbooks/varnish/vars.yml",
+		"/home/kido/VMs/lamp-infrastructure/playbooks/varnish/main.yml",
+		"/home/kido/VMs/lamp-infrastructure/provision.yml",
+		"/home/kido/VMs/lamp-infrastructure/playbooks/memcached/vars.yml",
+		"/home/kido/VMs/lamp-infrastructure/playbooks/memcached/main.yml",
+		"/home/kido/VMs/lamp-infrastructure/playbooks/www/main.yml",
+		"/home/kido/VMs/VagrantBOx/local_test2.yml",
+		"/home/kido/VMs/lamp-infrastructure/requirements.txt",
+		"/home/kido/VMs/lamp-infrastructure/playbooks/www/vars.yml",
+		"/home/kido/VMs/lamp-infrastructure/playbooks/varnish/templates/default.vcl.j2",
+		"/home/kido/VMs/VagrantBOx/inventory.py",
+		"/home/kido/VMs/VagrantBOx/debug",
+		"/home/kido/VMs/VagrantBOx/var=example_variable",
+		"/etc/ansible/roles/geerlingguy.php/tasks/setup-RedHat.yml",
+		"/etc/ansible/roles/geerlingguy.php/tasks/configure.yml",
+		"/home/kido/VMs/VagrantBOx/lamp/f",
+		"/etc/ansible/roles/geerlingguy.apache/vars/RedHat.yml",
+		"/etc/ansible/roles/geerlingguy.apache/tasks/main.yml",
+		"/etc/ansible/roles/geerlingguy.apache/defaults/main.yml",
+		"/etc/ansible/roles/geerlingguy.apache/tasks/configure-RedHat.yml",
+		"/etc/ansible/roles/geerlingguy.php/tasks/main.yml",
+		"/etc/ansible/roles/gcoop-libre.apache/defaults/main.yml",
+		"/etc/ansible/roles/gcoop-libre.apache/vars/RedHat.yml",
+		"/etc/ansible/roles/gcoop-libre.apache/tasks/configure-RedHat.yml",
+		"/home/kido/VMs/VagrantBOx/lamp/lamp.yml",
+		"/etc/ansible/roles/geerlingguy.apache/tasks/setup-RedHat.yml",
+		"/etc/ansible/roles/gcoop-libre.apache/tasks/setup-RedHat.yml",
+		"/etc/ansible/roles/gcoop-libre.apache/vars/main.yml",
+		"/etc/ansible/roles/training-devops.owncloud/defaults/main.yml",
+		"/etc/ansible/roles/training-devops.owncloud/tasks/main.yml",
+		"/home/kido/VMs/VagrantBOx/owncloud/owncloud.yml",
+		"/home/kido/VMs/VagrantBOx/owncloud/owncloud.",
+		"/etc/ansible/roles/training-devops.owncloud/vars/main.yml",
+		"/home/kido/pyWorkshop/flasky/app/templates/auth/two-factor-setup.html",
+		"/home/kido/pyWorkshop/flasky/config.py",
+		"/home/kido/pyWorkshop/flasky/app/auth/forms.py",
+		"/home/kido/pyWorkshop/flasky/app/main/views.py",
+		"/home/kido/pyWorkshop/flasky/app/templates/post.html",
+		"/home/kido/pyWorkshop/flasky/app/templates/_comments.html",
+		"/home/kido/pyWorkshop/flasky/app/templates/_posts.html",
+		"/home/kido/pyWorkshop/flasky/app/templates/user.html",
+		"/home/kido/pyWorkshop/flasky/app/templates/index.html",
+		"/home/kido/pyWorkshop/flasky/app/templates/followers.html",
+		"/home/kido/pyWorkshop/flasky/app/templates/_macros.html",
+		"/home/kido/pyWorkshop/flasky/app/main/forms.py",
+		"/home/kido/pyWorkshop/flasky/app/templates/base.html",
+		"/home/kido/pyWorkshop/flasky/app/templates/auth/login.html",
+		"/home/kido/pyWorkshop/workshop/workshop/settings.py",
+		"/home/kido/pyWorkshop/workshop/djangotask/admin.py",
+		"/home/kido/pyWorkshop/workshop/djangotask/models.py",
+		"/home/kido/pyWorkshop/workshop/workshop/urls.py",
+		"/home/kido/ecommerce-2/src/products/templates/products/product_detail.html",
+		"/home/kido/ecommerce-2/src/templates/javascript.html",
+		"/home/kido/ecommerce-2/src/ecommerce2/urls.py",
+		"/home/kido/ecommerce-2/src/carts/views.py",
+		"/home/kido/ecommerce-2/src/templates/navbar.html",
+		"/home/kido/ecommerce-2/src/carts/templates/carts/view.html",
+		"/home/kido/ecommerce-2/src/carts/templates/carts/empty_cart.html",
+		"/home/kido/ecommerce-2/src/carts/models.py",
+		"/home/kido/ecommerce-2/src/static_in_pro/our_static/js/custom.js",
+		"/home/kido/ecommerce-2/src/templates/alert.html",
+		"/home/kido/ecommerce-2/src/static_in_pro/our_static/css/custom.css",
+		"/home/kido/ecommerce-2/src/products/templates/products/alert.html",
+		"/home/kido/ecommerce-2/src/carts/templates/carts/alert.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 108.0,
+		"where_history":
+		[
+			"/home/kido/ecommerce-2/src",
+			"<open folders>",
+			"/Users/jmitch/Dropbox/cfe/src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"NET_DVR_Ini",
+			"BOOL NET_DVR_Ini",
+			"BOOL NET_DVR_Init(",
+			"NET_DVR_Init",
+			"NET",
+			"follower",
+			"followers",
+			"	\n",
+			"\"",
+			"auth",
+			"trydjango18",
+			"CORS",
+			"render_to_pdf",
+			"render_to",
+			"TIME_ZONE",
+			"send_mail",
+			"emai",
+			"send_email",
+			"celery",
+			"download",
+			"documents",
+			"login_required",
+			"staticfile",
+			"sidebar",
+			"active",
+			".footer",
+			"option",
+			"href='#",
+			"href=\"#",
+			"join",
+			"md",
+			"pesticide",
+			"td",
+			"pricing",
+			"all",
+			"reset",
+			"next",
+			"video",
+			"model",
+			"embed",
+			"dropdown",
+			"completed",
+			"start",
+			"quiz",
+			"print",
+			"id=",
+			"action",
+			"reverse",
+			"alert",
+			"error",
+			"ask",
+			"questions",
+			"actions",
+			"questions",
+			"transcript",
+			"Lecture",
+			"User",
+			"Lecture",
+			"reply",
+			"min-height",
+			"transcriptText",
+			"transcriptContainer",
+			"transcript",
+			"toggleTrans",
+			"print",
+			"video",
+			"remove",
+			"update",
+			"remove",
+			"url",
+			"hash",
+			"verbose_name",
+			"height",
+			"top",
+			"view",
+			"transcript",
+			"<i",
+			"fa",
+			"transcriptText",
+			"questions",
+			"span",
+			"transcript",
+			":",
+			"currentTime",
+			"cookie",
+			"current",
+			"updated",
+			"questions",
+			"krtoor6jqe",
+			"block",
+			"#wistia",
+			"id",
+			"wistia",
+			"lecture",
+			"wistia",
+			"wisita",
+			"url",
+			"filename",
+			"wistia",
+			"id",
+			"video",
+			"url",
+			"projects",
+			"filename",
+			"password",
+			"favicon",
+			"fav",
+			"bookmark it",
+			"share",
+			"information",
+			"imformation",
+			"people",
+			"someref",
+			"ip",
+			"complete",
+			"danger",
+			"500",
+			"1 month",
+			"download",
+			"progress-bar",
+			"access",
+			"plus",
+			"community",
+			"img",
+			"iphone",
+			"iphoneImg",
+			"img/apple-touch-icon-152-precomposed.png",
+			"static"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"ecommerce2",
+			"img/apple-touch-icon-152.png",
+			"{})",
+			"render(request,",
+			"render(",
+			")",
+			"render(request,",
+			"Coding For Entrepreneurs",
+			"CodingForEntrepreneurs.com",
+			"Coding For Entrepreneurs",
+			"CodingForEntrepreneurs.com"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "task/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3761,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3279,
+								3279
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 2112.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "chat/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 923,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								163,
+								163
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "chat/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3626,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2618,
+								2618
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1320.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "chat/templates/client.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3665,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1623,
+								1623
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 924.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "chat/urls_chat.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 645,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								178,
+								178
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "chat/serializers.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1165,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								725,
+								725
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 66.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 136.0
+	},
+	"pinned_build_system": "",
+	"project": "chat.project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 557.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 333.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
