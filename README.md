@@ -3,7 +3,6 @@ Chat API with django rest framework
 
 <snippet>
   <content>
-# ${1:Project Name}
 
 TODO: Write a project description
 
@@ -30,7 +29,5 @@ API_ROOT: http://localhost:8000
    пример: 2017-07-11
 6) Api должен быть защищенным. Как минимум необходимо отвечать ошибкой на запросы от пользователей, которые не авторизовались
 
-
 </content>
-  <tabTrigger>readme</tabTrigger>
 </snippet>
