@@ -9,9 +9,9 @@ TODO: Write a project description
 
 ## Installation
 
-$ pip install -r requirements.txt
-$ python3 manage.py migrate
-$ python3 manage.py createsuperuser
+1. $ pip install -r requirements.txt
+2. $ python3 manage.py migrate
+3. $ python3 manage.py createsuperuser
 
 ## Usage
 
