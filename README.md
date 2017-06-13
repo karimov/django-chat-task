@@ -2,7 +2,7 @@
 Chat API with django rest framework
 
 <snippet>
-  <content><![CDATA[
+  <content>
 # ${1:Project Name}
 
 TODO: Write a project description
@@ -26,11 +26,11 @@ API_ROOT: http://localhost:8000
 4) Для получения новых сообщений необходимо реализовать поллинг.
    POST http://localhost:8000/messages/poll
 5) Реализовать механизм загрузки истории сообщений.
-   POST http://localhost:8000/messages/?=date="YYY-mm-dd"
+   GET http://localhost:8000/messages/?=date="YYY-mm-dd"
    пример: 2017-07-11
 6) Api должен быть защищенным. Как минимум необходимо отвечать ошибкой на запросы от пользователей, которые не авторизовались
 
 
-]]></content>
+</content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
