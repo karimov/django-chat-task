@@ -13,37 +13,40 @@
 <script>
 
 var last_mid = {'last_mid': 1};
-var polling = function (){
-    $.ajax({
-        url: 'http://127.0.0.1:8000/messages/poll',
-        dataType: 'json',
-        type: 'post',
-        contentType: 'application/json',
-        data: JSON.stringify(last_mid),
-        success: function(data){
-        if (data['messages']){
-            last_mid = {'last_mid': data['last_mid']};
-        	var messages = data['messages']
-        	$(messages).each(function(key, value){
-        		$('#response').append('<span> id:' +value["id"]+
-    									' user:' +value["user"]+
-    									' message:' +value["message"]+
-        								' timestamp:' +value['timestamp']+
-            							'</span><br>'
-        								);
+var myData;
 
-        	});
-          }
-        },
-        error: function(errMsg){
-            console.log( errMsg );
-        }
-	});
-    clearTimeout(timer);
-	var timer = setTimeout(polling, 15000);
+var poll = function (){
+        $.ajax({
+            url: "{% url  'poll' %}",
+            dataType: 'json',
+            type: 'post',
+            contentType: 'application/json',
+            data: JSON.stringify(last_mid),
+            success: function(data){
+                myData = data;
+                if (myData && myData['messages']){
+                    last_mid = {'last_mid': myData['last_mid']};
+                    var messages = myData['messages']
+                    $(messages).each(function(key, value){
+                         $('#response').append('<span> id:' +value["id"]+
+                                                 ' user:' +value["user"]+
+                                                 ' message:' +value["message"]+
+                                                 ' timestamp:' +value['timestamp']+
+                                                 '</span><br>'
+                                                 );
+
+                     });
+                }
+
+            },
+            error: function(errMsg){
+                console.log(errMsg);
+            },
+            complete: poll
+    	});
 }
 
-polling();
+poll();
 
 </script>
 </body>
