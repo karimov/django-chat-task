@@ -9,11 +9,12 @@ from rest_framework.response import Response
 from rest_framework.decorators import api_view, permission_classes
 from rest_framework import status, permissions
 from rest_framework.reverse import reverse
+from rest_framework.pagination import PageNumberPagination
 from chat.models import Message
 
 import time
 
-
+# @csrf_exempt
 def client(request):
 	return render(request, "client.html", {})
 
@@ -59,6 +60,7 @@ def user_del(request, pk):
 # Polling
 POLLING_INTERVAL = 15
 
+# @csrf_exempt
 @api_view(['POST'])
 @permission_classes((permissions.AllowAny,))
 def poll(request):
@@ -105,11 +107,19 @@ def message_list(request):
 @api_view(['GET'])
 @permission_classes((permissions.AllowAny, ))
 def message_history(request):
+	context={'request': request}
+	paginator = PageNumberPagination()
+	paginator.page_size = 10
+
 	date = request.GET.get('date', '')
 	try:
 		messages = Message.objects.message_history(date)
 	except ValidationError:
 		return Response(status=status.HTTP_400_BAD_REQUEST)
 
-	serializer = MessageSerializer(messages, many=True)
-	return Response(serializer.data)
+	# message_objects = messages
+	result_page = paginator.paginate_queryset(messages, request)
+
+	serializer = MessageSerializer(message, many=True)
+	return paginator.get_paginated_response(serializer.data)
+	# return Response(serializer.data)

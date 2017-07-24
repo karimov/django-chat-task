@@ -520,18 +520,10 @@
 	"buffers":
 	[
 		{
-			"file": "task/settings.py",
+			"file": "chat/templates/client.html",
 			"settings":
 			{
-				"buffer_size": 3761,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "chat/models.py",
-			"settings":
-			{
-				"buffer_size": 923,
+				"buffer_size": 1437,
 				"line_ending": "Unix"
 			}
 		},
@@ -539,31 +531,7 @@
 			"file": "chat/views.py",
 			"settings":
 			{
-				"buffer_size": 3626,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "chat/templates/client.html",
-			"settings":
-			{
-				"buffer_size": 3665,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "chat/urls_chat.py",
-			"settings":
-			{
-				"buffer_size": 645,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "chat/serializers.py",
-			"settings":
-			{
-				"buffer_size": 1165,
+				"buffer_size": 3959,
 				"line_ending": "Unix"
 			}
 		}
@@ -607,6 +575,12 @@
 	],
 	"file_history":
 	[
+		"/home/kido/pyWorkshop/django-chat/task/chat/serializers.py",
+		"/home/kido/pyWorkshop/django-chat/task/chat/urls_chat.py",
+		"/home/kido/pyWorkshop/django-chat/task/chat/templates/client.html",
+		"/home/kido/pyWorkshop/django-chat/task/chat/views.py",
+		"/home/kido/pyWorkshop/django-chat/task/chat/models.py",
+		"/home/kido/pyWorkshop/django-chat/task/task/settings.py",
 		"/home/kido/pyWorkshop/django-chat/task/task/urls.py",
 		"/home/kido/pyWorkshop/django-chat/task/chat/admin.py",
 		"/home/kido/pyWorkshop/chat_api/tasks/snippet/permissions.py",
@@ -728,13 +702,7 @@
 		"/home/kido/ecommerce-2/src/carts/views.py",
 		"/home/kido/ecommerce-2/src/templates/navbar.html",
 		"/home/kido/ecommerce-2/src/carts/templates/carts/view.html",
-		"/home/kido/ecommerce-2/src/carts/templates/carts/empty_cart.html",
-		"/home/kido/ecommerce-2/src/carts/models.py",
-		"/home/kido/ecommerce-2/src/static_in_pro/our_static/js/custom.js",
-		"/home/kido/ecommerce-2/src/templates/alert.html",
-		"/home/kido/ecommerce-2/src/static_in_pro/our_static/css/custom.css",
-		"/home/kido/ecommerce-2/src/products/templates/products/alert.html",
-		"/home/kido/ecommerce-2/src/carts/templates/carts/alert.html"
+		"/home/kido/ecommerce-2/src/carts/templates/carts/empty_cart.html"
 	],
 	"find":
 	{
@@ -912,177 +880,66 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "task/settings.py",
+					"file": "chat/templates/client.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3761,
+						"buffer_size": 1437,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3279,
-								3279
+								935,
+								935
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.tmLanguage",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
-						"translation.x": -0.0,
-						"translation.y": 2112.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "chat/models.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 923,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								163,
-								163
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage"
-						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "chat/views.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3626,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2618,
-								2618
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1320.0,
+						"translation.y": 330.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "chat/templates/client.html",
+					"buffer": 1,
+					"file": "chat/views.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3665,
+						"buffer_size": 3959,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1623,
-								1623
+								3453,
+								3453
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 924.0,
+						"translation.y": 1848.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "chat/urls_chat.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 645,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								178,
-								178
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "chat/serializers.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1165,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								725,
-								725
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 66.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
 					"type": "text"
 				}
 			]
